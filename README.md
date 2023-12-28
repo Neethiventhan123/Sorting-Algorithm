@@ -55,9 +55,8 @@ print(sorted(nums))
 ```
 
 ## Output
-![image](https://github.com/Neethiventhan123/Sorting-Algorithm/assets/148514848/6c97f49e-8f23-43c1-92f5-da607c9a305b)
-![image](https://github.com/Neethiventhan123/Sorting-Algorithm/assets/148514848/9ebbff36-bcaf-48cf-9857-c38749e2639d)
-
+![image](https://github.com/Neethiventhan123/Sorting-Algorithm/assets/148514848/4c907eae-67f9-4e05-af39-d5061eb8e566)
+![image](https://github.com/Neethiventhan123/Sorting-Algorithm/assets/148514848/a536337c-f78c-4670-810e-a125931236d4)
 
 
 ## Result:
